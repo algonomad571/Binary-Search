@@ -8,3 +8,4 @@ This folder contains the solutions to the following USACO problems:
 | Cow Dance Show | [Link](https://usaco.org/index.php?page=viewproblem2&cpid=690) | [Cow_Dance_Show.cpp](./Cow_Dance_Show.cpp) |
 | Convention | [Link](https://usaco.org/index.php?page=viewproblem2&cpid=858) | [Convention.cpp](./Convention.cpp) |
 | Angry Cows | [Link](https://usaco.org/index.php?page=viewproblem2&cpid=594) | [Angry_cows.cpp](./Angry_cows.cpp) |
+| Social Distancing | [Link](https://usaco.org/index.php?page=viewproblem2&cpid=1038) | [Social_distancing.cpp](./Social_distancing.cpp) |
