@@ -9,3 +9,5 @@ This folder contains the solutions to the following USACO problems:
 | Convention | [Link](https://usaco.org/index.php?page=viewproblem2&cpid=858) | [Convention.cpp](./Convention.cpp) |
 | Angry Cows | [Link](https://usaco.org/index.php?page=viewproblem2&cpid=594) | [Angry_cows.cpp](./Angry_cows.cpp) |
 | Social Distancing | [Link](https://usaco.org/index.php?page=viewproblem2&cpid=1038) | [Social_distancing.cpp](./Social_distancing.cpp) |
+| Loan Repayment | [Link](https://usaco.org/index.php?page=viewproblem2&cpid=991) | [Loan_Repayment.cpp](./Loan_Repayment.cpp) |
+| Bakery | [Link](https://usaco.org/index.php?page=viewproblem2&cpid=1302) | [Bakery.cpp](./Bakery.cpp) |
