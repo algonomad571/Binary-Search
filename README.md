@@ -12,3 +12,4 @@ This folder contains the solutions to the following USACO problems:
 | Loan Repayment | [Link](https://usaco.org/index.php?page=viewproblem2&cpid=991) | [Loan_Repayment.cpp](./Loan_Repayment.cpp) |
 | Bakery | [Link](https://usaco.org/index.php?page=viewproblem2&cpid=1302) | [Bakery.cpp](./Bakery.cpp) |
 | Cow dependence | [Link](https://usaco.org/index.php?page=viewproblem2&cpid=1449) | [Cow_dependence.cpp](./Cow_dependence.cpp) |
+| Load Balancing | [Link](https://usaco.org/index.php?page=viewproblem2&cpid=624) | [Load_Balancing.cpp](./Load_Balancing.cpp) |
