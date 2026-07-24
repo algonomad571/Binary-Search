@@ -13,3 +13,5 @@ This folder contains the solutions to the following USACO problems:
 | Bakery | [Link](https://usaco.org/index.php?page=viewproblem2&cpid=1302) | [Bakery.cpp](./Bakery.cpp) |
 | Cow dependence | [Link](https://usaco.org/index.php?page=viewproblem2&cpid=1449) | [Cow_dependence.cpp](./Cow_dependence.cpp) |
 | Load Balancing | [Link](https://usaco.org/index.php?page=viewproblem2&cpid=624) | [Load_Balancing.cpp](./Load_Balancing.cpp) |
+| Factory Machines | [Link](https://cses.fi/problemset/task/2168) | [Factory_Machines.cpp](./Factory_Machines.cpp) |
+| Array division | [Link](https://cses.fi/problemset/task/1085) | [Array_division.cpp](./Array_division.cpp) |
