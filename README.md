@@ -11,3 +11,4 @@ This folder contains the solutions to the following USACO problems:
 | Social Distancing | [Link](https://usaco.org/index.php?page=viewproblem2&cpid=1038) | [Social_distancing.cpp](./Social_distancing.cpp) |
 | Loan Repayment | [Link](https://usaco.org/index.php?page=viewproblem2&cpid=991) | [Loan_Repayment.cpp](./Loan_Repayment.cpp) |
 | Bakery | [Link](https://usaco.org/index.php?page=viewproblem2&cpid=1302) | [Bakery.cpp](./Bakery.cpp) |
+| Cow dependence | [Link](https://usaco.org/index.php?page=viewproblem2&cpid=1449) | [Cow_dependence.cpp](./Cow_dependence.cpp) |
